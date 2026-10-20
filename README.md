@@ -14,11 +14,12 @@
 
 ## Team Domain
 * **Selected Domain:** Domain 1
-* **SDG Track (1–17):** SDG 4 - Quality Education
-                      SDG 5 - Gender Equality
-                      SDG 8 - Decent Work And Economic Growth
-                      SDG 9 - Industry, Innovation And Infrastructure
-                      SDG 10 - Reduced Inequalities
+* **SDG Track (1–17):**
+* SDG 4 - Quality Education
+* SDG 5 - Gender Equality
+* SDG 8 - Decent Work And Economic Growth
+* SDG 9 - Industry, Innovation And Infrastructure
+* SDG 10 - Reduced Inequalities
 
 ---
 

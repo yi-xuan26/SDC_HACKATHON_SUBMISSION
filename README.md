@@ -1,21 +1,12 @@
 # SDC_HACKATHON_SUBMISSION
 
-## Team Name
-## Team Domain
-## Necessary links (demo, pitch video)
-## How to run the project
-## Overall project structure
-## How to use Replit and RunPod
-
-# SDC_HACKATHON_SUBMISSION
-
 > A brief one-sentence description of what your project does and who it is for.
 
 ---
 
 ## Team Information
 * **Team Name:** Byte Me
-* **Team Leader:** Ng Yi Xuan ([ngyi.xuan@graduate.utm.my](mailto:ngyi.xuan@graduate.utm.my))
+* **Team Leader:** Ng Yi Xuan ([yixuan1161@gmail.com](mailto:yixuan1161@gmail.com))
 * **University:** Universiti Teknologi Malaysia (UTM)
 * **Number of Members:** 5
 

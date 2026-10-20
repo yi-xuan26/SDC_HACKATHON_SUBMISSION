@@ -6,3 +6,57 @@
 ## How to run the project
 ## Overall project structure
 ## How to use Replit and RunPod
+
+# SDC_HACKATHON_SUBMISSION
+
+> A brief one-sentence description of what your project does and who it is for.
+
+---
+
+## Team Information
+* **Team Name:** Byte Me
+* **Team Leader:** Ng Yi Xuan ([ngyi.xuan@graduate.utm.my](mailto:ngyi.xuan@graduate.utm.my))
+* **University:** Universiti Teknologi Malaysia (UTM)
+* **Number of Members:** 5
+
+---
+
+## Team Domain
+* **Selected Domain:** Domain 1
+* **SDG Track (1–17):** e.g., SDG 11 — Sustainable Cities and Communities
+
+---
+
+## Necessary links (demo, pitch video)
+
+| Resource | Link |
+| :--- | :--- |
+| **GitHub Repository** | `https://github.com/your-username/your-project` |
+| **Replit Project** | `https://replit.com/@your-username/your-project` |
+| **Live Demo** | `https://your-project.replit.app` |
+| **Demo / Pitch Video** | `https://example.com/demo-video` |
+| **Slide Deck** | `https://example.com/slides` |
+| **RunPod Endpoint** | `https://api.runpod.ai/v2/your-endpoint-id` |
+
+---
+
+## Overall project structure
+
+```text
+.
+├── docs/                      # Diagrams, architecture flowcharts, and screenshots
+├── runpod/
+│   └── handler.py             # RunPod serverless handler for GPU workloads
+├── src/
+│   ├── main.py                # Main application entry point
+│   └── utils.py               # Helper and utility functions
+├── submission/                # Required hackathon submission files
+│   ├── REPLIT PROOF OF USE.pdf
+│   ├── RUNPOD PROOF OF USE.pdf
+│   └── SDC2026_ByteMe_Preliminary.pdf
+├── tests/
+│   └── test_utils.py          # Unit tests
+├── .env.example               # Environment variables template
+├── .replit                    # Replit runner configuration
+├── requirements.txt           # Project dependencies
+└── README.md                  # Project documentation

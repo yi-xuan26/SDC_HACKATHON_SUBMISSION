@@ -1,6 +1,6 @@
 # SDC_HACKATHON_SUBMISSION
 
-> A brief one-sentence description of what your project does and who it is for.
+> An AI-powered application built for the Software Development Club (SDC) Hackathon, hosted on Replit and leveraging GPU acceleration via RunPod.
 
 ---
 
